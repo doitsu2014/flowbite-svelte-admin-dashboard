@@ -2,7 +2,7 @@
 	"name": "flowbite-svelte-admin-dashboard",
 	"version": "0.1.2",
 	"description": "Flowbite Admin Dashboard components for Svelte",
-	"homepage": "https://flowbite-svelte-admin-dashboard.vercel.app/",
+	"homepage": "https://admin.doitsu.tech/",
 	"private": false,
 	"license": "MIT",
 	"scripts": {
